@@ -14,19 +14,16 @@
 <br>
 
 #### **Connectivity:** 
-#### *Connected*: For an undirected graph, every pair of nodes u and v, there is a path from u to v. 
-#### *Strongly connected*: For a directed graph, for two every nodes u and v, there is a path from u to v and a path from v to u.
-<br>
+*Connected*: For an undirected graph, every pair of nodes u and v, there is a path from u to v. <br>
+*Strongly connected*: For a directed graph, for two every nodes u and v, there is a path from u to v and a path from v to u.
 
 #### **Trees:** An undirected graph is a tree if it is connected and does not contain a circle.
-<br>
 
 #### **Directed Acyclic Graph(DAG):** A directed graph has no cycle.
-<br>
 
 #### **Graph Traversal:**
-#### *Breath First Search*(BFS) : Explore outwards from s in all possible directions, addig nodes one "layer" at a time.
-#### *Depth First Search*(BFS) : Explore outwards from s by going as deeply as possible and only treating when necessary.
+*Breath First Search*(BFS) : Explore outwards from s in all possible directions, addig nodes one "layer" at a time.<br>
+*Depth First Search*(BFS) : Explore outwards from s by going as deeply as possible and only treating when necessary.
 <br>
 
 ### **2. Topological**
